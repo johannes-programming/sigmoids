@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sigmoids"
-version = "0.0.0"
+version = "0.0.1"
 description = "sigmoid functions"
 readme = "README.rst"
 authors = [
